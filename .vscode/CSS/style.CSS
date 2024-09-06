@@ -1,0 +1,58 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+div p{
+    color: chartreuse;
+}
+
+.para2 {
+    colour: red
+}
+
+
+#para3 {
+    background-color: cadetblue;
+}
+
+.para1 {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+input[type="text"] {
+    background-color: cadetblue;
+}
+
+#btn:hover {
+    background-color: aqua;
+}
+
+.div{
+    border: 2px solid;
+    margin: 25px 5px 20px 15px;
+}
+
+ul li {
+    list-style-type: name;
+    display: inline;
+    padding: 20px;
+}
+ul {
+    background-color: blanchedalmond;
+}
+
+nav {
+    margin: 20px;
+}
+
+nav a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid;
+    width: 20%;
+}
+nav a:hover {
+    color: red;
+}
